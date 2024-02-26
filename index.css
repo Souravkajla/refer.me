@@ -136,7 +136,7 @@
   flex-direction: column;
   align-items: center;
   /* background-color: red; */
-  height: 500px;
+  height: 80vh;
   width: 640px;
   line-height: 65px;
 }
@@ -228,6 +228,8 @@
 
 #container {
   display: flex;
+  height: 90vh;
+  width: 100vw;
 }
 
 #sidediv {
