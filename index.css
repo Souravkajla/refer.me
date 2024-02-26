@@ -188,6 +188,12 @@
   margin-left: -5vw;
 }
 
+.dreamjob {
+  color: #171923;
+  font-size: 20px;
+  font-family: "DM Sans", sans-serif;
+}
+
 @media screen and (max-width: 450px) {
   #bigtexts {
     padding-top: 8vh;
@@ -213,14 +219,8 @@
   }
 
   .dreamjob {
-    padding-left: 40px;
+    padding-left: 20px;
   }
-}
-
-.dreamjob {
-  color: #171923;
-  font-size: 20px;
-  font-family: "DM Sans", sans-serif;
 }
 
 #getgive {
