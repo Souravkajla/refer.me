@@ -140,6 +140,7 @@
 @media screen and (max-width: 450px) {
   .secondtext {
     font-size: 13px;
+    margin-top: 14px;
   }
 
   .marketplace {
@@ -219,7 +220,7 @@
   }
 
   .dreamjob {
-    padding-left: 20px;
+    padding-left: 40px;
     font-size: 15px;
   }
 }
